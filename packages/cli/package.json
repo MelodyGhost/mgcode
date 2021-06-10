@@ -1,6 +1,6 @@
 {
   "name": "mgnote",
-  "version": "1.0.21",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,10 +19,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mgcode/local-client": "^1.0.2"
+    "@mgcode/local-client": "^1.0.3"
   },
   "devDependencies": {
-    "@mgcode/local-api": "^1.0.2",
+    "@mgcode/local-api": "^1.0.3",
     "@types/node": "^15.12.1",
     "commander": "^7.2.0",
     "esbuild": "^0.12.8",

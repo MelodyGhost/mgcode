@@ -1,6 +1,6 @@
 {
-  "name": "mg-code",
-  "version": "1.0.2",
+  "name": "mgnote",
+  "version": "1.0.21",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -28,5 +28,5 @@
     "esbuild": "^0.12.8",
     "typescript": "^4.3.2"
   },
-  "gitHead": "78465fdd02b05dcaf7311c6df43cb339a2b6472c"
+  "gitHead": "fa2b8974138ad4f767c6b16d3a0ea35424a9d061"
 }

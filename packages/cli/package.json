@@ -22,9 +22,9 @@
     "@mgcode/local-client": "^1.0.0"
   },
   "devDependencies": {
-    "commander": "^7.2.0",
     "@mgcode/local-api": "^1.0.0",
     "@types/node": "^15.12.1",
+    "commander": "^7.2.0",
     "esbuild": "^0.12.8",
     "typescript": "^4.3.2"
   }

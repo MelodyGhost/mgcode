@@ -28,5 +28,5 @@
     "express": "^4.17.1",
     "http-proxy-middleware": "^2.0.0"
   },
-  "gitHead": "56dc36a22d48415a74dc50bd820247bd71e4333a"
+  "gitHead": "78465fdd02b05dcaf7311c6df43cb339a2b6472c"
 }

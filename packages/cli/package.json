@@ -1,6 +1,6 @@
 {
   "name": "mg-code",
-  "version": "1.0.11",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -19,10 +19,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mgcode/local-client": "^1.0.1"
+    "@mgcode/local-client": "^1.0.2"
   },
   "devDependencies": {
-    "@mgcode/local-api": "^1.0.1",
+    "@mgcode/local-api": "^1.0.2",
     "@types/node": "^15.12.1",
     "commander": "^7.2.0",
     "esbuild": "^0.12.8",

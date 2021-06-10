@@ -1,6 +1,6 @@
 {
   "name": "@mgcode/local-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -23,7 +23,7 @@
     "typescript": "^4.3.2"
   },
   "dependencies": {
-    "@mgcode/local-client": "^1.0.1",
+    "@mgcode/local-client": "^1.0.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "http-proxy-middleware": "^2.0.0"

@@ -1,0 +1,32 @@
+.add-button {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin: 10px 0;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.add-button:hover {
+  opacity: 1;
+}
+
+.add-button button {
+  margin: 0 30px;
+}
+
+.divider {
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  width: 92%;
+  left: 4%;
+  right: 4%;
+  height: 1px;
+  background-color: grey;
+  z-index: -1;
+}
+
+.is-only-one {
+  opacity: 1;
+}

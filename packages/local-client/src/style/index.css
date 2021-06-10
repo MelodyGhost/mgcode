@@ -1,0 +1,45 @@
+.editor {
+  position: relative;
+  /* flex: 0.6; */
+  width: calc(100% - 10px);
+  height: 100%;
+}
+
+.formatter {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  border: 1px solid #aaa;
+  background-color: rgb(118, 29, 163);
+  color: white;
+  padding: 8px 5px;
+  z-index: 10;
+  opacity: 0;
+  cursor: pointer;
+  transition: opacity 0.3s ease-in;
+  border-radius: 2px;
+}
+
+.editor:hover .formatter {
+  opacity: 1;
+}
+
+.formatter:active {
+  transform: scale(0.98);
+}
+
+.formatter:focus {
+  outline: none;
+}
+
+.code-cell-wrapper {
+  width: 100%;
+  height: calc(100% - 10px);
+  display: flex;
+  flex-direction: row;
+}
+
+.preview {
+  background-color: white;
+  /* flex: 0.3; */
+}

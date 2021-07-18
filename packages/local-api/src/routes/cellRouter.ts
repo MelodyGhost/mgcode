@@ -19,7 +19,6 @@ export const createRouter = (fileName: string, dir: string) => {
       const read = await fs.readFile(fullPath, { encoding: 'utf-8' });
       res.send(JSON.parse(read));
     } catch (err) {
-      console.log(err.message);
       if (err.code === 'ENOENT') {
         await fs.writeFile(fullPath, '[]', 'utf-8');
         res.send([]);

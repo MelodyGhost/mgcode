@@ -15,8 +15,11 @@
     "start": "tsc --watch --preserveWatchOutput",
     "prepublishOnly": "esbuild src/index.ts --platform=node --outfile=dist/index.js --bundle --minify --target=es6 --define:process.env.NODE_ENV=\\\"production\\\""
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "mgcode",
+    "js notebook"
+  ],
+  "author": "MG Rahim",
   "license": "ISC",
   "dependencies": {
     "@mgcode/local-client": "^1.0.3"

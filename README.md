@@ -50,7 +50,7 @@
 
 ## About The Project
 
-<img src='./demo/Demo.gif' align='center' width='90%'>
+<img src='./demo/Demo.gif' align='center'>
 
 This is it, the project I always wanted to proudly present to the world. This took me more than 3 months of coding, searching, reading documentation, watching lots of tutorial. I wanted to build something unique. During the building proccess I hit many road block, but every roadblock taught me something new.<br>
 Below I listed some of the key feature I think great about this project.

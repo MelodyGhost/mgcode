@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align='center'>Ever wonder how to code in <strong>JavaScript or React</strong><br> directly in the <strong>browser</strong> with <strong>VScode</strong> like editor,<br> <strong>preview</strong> the result with a blink of your eye,<br> document with beautiful <strong>markdown text</strong>,<br> and finally share the file with others to see!<br><br><em> Well, wait no more!</em></p>
+<p align='center'>Ever wonder how to code in <strong>JavaScript or React</strong><br> directly in the <strong>browser</strong> with <strong>VScode</strong> like editor,<br> <strong>Automatically run</strong> the code with a blink of your eye,<br> document with beautiful <strong>markdown text</strong>,<br> and finally share the file with others to see!<br><br><em> Well, wait no more!</em></p>
 
 <h2 align='center'>Inroducing <strong>MG Note😍</strong></h2>
 <p align='center'>Bundled with <a href="https://esbuild.github.io">ESbuild</a>, the fastest js bundler<br>
@@ -40,11 +40,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#Author">Author</a></li>
+    <li><a href="#show-your-support">The End</a></li>
   </ol>
 </details>
 
@@ -59,7 +57,7 @@ Below I listed some of the key feature I think great about this project.
 
 ### Feature:
 
-- Run in command line interface(CLI) and install it globaly on your machine
+- Run in command line interface(CLI) and install it on your machine
 - Friendly **VScode** like editor with **auto Suggestion** and **syntex highlighting**. (funfact: VScode and this editor uses same library named monaco)
 - Document your code with beautiful markdown editor
 - Auto **save** to your hard drive
@@ -147,6 +145,18 @@ If you are done editing, you can share the file (**notebook.js** or, **mgnote** 
 <br>
 
 _or maybe you want to save some **JS function** or **React component** and document how they work.<br> **MG Note** got you covered!_
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## Author
 

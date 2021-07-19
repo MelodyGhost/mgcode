@@ -12,7 +12,7 @@
 
 <h2 align='center'>Introducing <strong>MG Note😍</strong></h2>
 <p align='center'>Bundled with <a href="https://esbuild.github.io">ESbuild</a>, the fastest js bundler<br>
-    <a href="https://github.com/MelodyGhost/mgcode">View Demo</a>
+    <a href="https://melodyghost.github.io/mgcode-web/">View Demo</a>
     ·
     <a href="https://github.com/MelodyGhost/mgcode/issues">Report Bug</a>
     ·
@@ -51,6 +51,11 @@
 ## About The Project
 
 <img src='./demo/Demo.gif' align='center'>
+
+<a href='https://melodyghost.github.io/mgcode-web/'>
+Check Out Live Demo (No Autosave)</a>
+
+<br>
 
 This is it, the project I always wanted to proudly present to the world. This took me more than 3 months of coding, searching, reading documentation, watching lots of tutorials. I wanted to build something unique. During the building proccess, I hit many roadblock, but every roadblock taught me something new.<br>
 Below I listed some of the key features I think are great about this project.
